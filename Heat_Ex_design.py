@@ -156,6 +156,7 @@ def HX_Designing(di, do, Di, Th, Tc, m_h, m_c, E, hot_fluid, cold_fluid):
 #
 #
 # Inputs
+# Input can be edited
 di = 3.388e-03
 do = 3.81e-03
 Di = 6.35e-03
